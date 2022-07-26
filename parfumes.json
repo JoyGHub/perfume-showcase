@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Gabrielle Essence Eau De Parfum",
+        "description": "A floral, solar and voluptuous interpretation composed by Olivier Polge, Perfumer-Creator for the House of CHANEL.",
+        "new-price": "$150.00",
+        "old-price": "$170.00",
+        "image": "images/image-product-desktop.jpg"
+    },
+    {
+        "name": "Chanel No.5",
+        "description": "The world's most famous perfumeTreads that delicate line between femininity and strength perfectly.",
+        "new-price": "$90.00",
+        "old-price": "$150.00",
+        "image": "images/image-product-desktop.jpg"
+    },
+    {
+        "name": "Marc Jacobs Daisy",
+        "description": "Daisy launched in 2007 with a summery, carefree advertising campaign that perfectly encapsulated the fresh and floral juice.",
+        "new-price": "$100.00",
+        "old-price": "$125.00",
+        "image": "images/image-product-desktop.jpg"
+    }
+]
